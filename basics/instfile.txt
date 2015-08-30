@@ -1,0 +1,6 @@
+load
+jump
+load
+store
+test
+noop
